@@ -32,7 +32,7 @@ This Jupyter Book explores data from the AdventureWorks sample database (specifi
  1. Navigate to your **Downloads** directory (or wherever you extracted the files), and go the main notebook folder (i.e., `jupyter-book-example`) to add all of the book files as well as the backend YAML configurations to your workspace.
  1. Click the **Notebooks** icon on the **Activity Bar**.
  1. In the **Tool and Explorer Sidebar**, click the **Open Notebooks in Folder** icon.
- 1. Navigate to the `jupyter-book-example-main` folder, and click **Select Folder**.
+ 1. Navigate to the `jupyter-book-example` folder, and click **Select Folder**.
 
 ## Table of Contents
 - [Dataset Review](dataset-review/readme.md)
