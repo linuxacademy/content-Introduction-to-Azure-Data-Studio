@@ -25,11 +25,11 @@ Use this notebook to review the data and make observations about the company's b
 This Jupyter Book explores data from the AdventureWorks sample database (specifically, the `AdventureWorksLT2019` version). If you want to test the queries within the notebook files, you will need to set up a local or cloud-based connection to the database. See [SQL Docs: AdventureWorks Sample Databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssmsEnsure) for more information on connecting to this database.
 
 ## Opening the Jupyter Book
- 1. From the book's GitHub repository, click **Code** > **Download ZIP**.
- 1. Extract the downloaded folder on your system.
+ 1. From the book's [GitHub repository](https://github.com/linuxacademy/content-Introduction-to-Azure-Data-Studio), click **Code** > **Download ZIP**.
+ 1. Extract the downloaded repository folder on your system.
  1. Open [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16), and click the **Explorer** icon on the **Activity Bar**.
  1. Click **Open Folder**.
- 1. Navigate to your **Downloads** directory (or wherever you extracted the files), and select the main repository folder (i.e., `jupyter-book-example-main`) to add all of the book files as well as the backend YAML configurations to your workspace.
+ 1. Navigate to your **Downloads** directory (or wherever you extracted the files), and go the main notebook folder (i.e., `jupyter-book-example`) to add all of the book files as well as the backend YAML configurations to your workspace.
  1. Click the **Notebooks** icon on the **Activity Bar**.
  1. In the **Tool and Explorer Sidebar**, click the **Open Notebooks in Folder** icon.
  1. Navigate to the `jupyter-book-example-main` folder, and click **Select Folder**.
