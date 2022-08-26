@@ -1,0 +1,20 @@
+- title: Introduction
+  file: /readme
+- title: Dataset Review
+  file: /dataset-review/readme
+  sections:
+    - title: Inventory and Sales
+      file: /dataset-review/inventory-sales
+    - title: Product Categories
+      file: /dataset-review/product-categories
+- title: Exploring Bike-Specific Data
+  file: /exploring-bike-data/readme
+  sections:
+    - title: Bike Pricing and Profits
+      file: /exploring-bike-data/bike-pricing-profits
+    - title: Previous Bike Sales
+      file: /exploring-bike-data/previous-sales
+    - title: Bike Size to Weight Ratio
+      file: /exploring-bike-data/bike-size-weight-ratio
+- title: Conclusion
+  file: /conclusion
