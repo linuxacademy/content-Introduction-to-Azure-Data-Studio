@@ -9,5 +9,5 @@ Ensure each of the Jupyter Notebook files are connected to the database (e.g., v
 ![](connection.png)
 
 ## Table of Contents
-- [Inventory and Sales](/dataset-review/inventory-sales.ipynb)
-- [Product Categories](/dataset-review/product-categories.ipynb)
+- [Inventory and Sales](inventory-sales.ipynb)
+- [Product Categories](product-categories.ipynb)
