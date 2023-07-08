@@ -37,7 +37,7 @@ This Jupyter Book explores data from the AdventureWorks sample database (specifi
 ## Table of Contents
 - [Dataset Review](dataset-review/readme.md)
 - [Exploring Bike-Specific Data](exploring-bike-data/readme.md)
-- [Conclusion](/conclusion.md)
+- [Conclusion](conclusion.md)
 
 
 <br>
